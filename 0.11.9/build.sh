@@ -1,6 +1,6 @@
 #!/bin/bash
 
-IMAGE=singularity.simg
+IMAGE=singularity-fastqc-0.11.9.sif
 DEFINITION=Singularity
 
 if [ -f $IMAGE ]; then
