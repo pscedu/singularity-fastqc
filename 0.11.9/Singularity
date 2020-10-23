@@ -28,9 +28,10 @@ IncludeCmd: yes
     mv FastQC /opt/
     chmod 755 /opt/FastQC/fastqc
     apt-get remove -y wget unzip
+    apt-get -y autoremove
     
 %apphelp fastqc
-    /opt/FastQC/fastqc
+    /opt/FastQC/fastqc --help
 
 %apprun fastqc
     /opt/FastQC/fastqc "$@"
