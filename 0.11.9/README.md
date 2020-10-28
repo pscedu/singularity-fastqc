@@ -13,7 +13,7 @@ bash ./pull.sh
 Copy the
 
 * `SIF` file
-* and all the scripts
+* and the `fastqc` script
 
 to `/opt/packages/fastqc/0.11.9`.
 
