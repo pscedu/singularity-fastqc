@@ -5,8 +5,8 @@ if [ ! $(command -v singularity) ]; then
 fi
 
 VERSION=0.11.9
-PACKAGE=fastqc
-TOOL=$PACKAGE
+PACKAGE=FastQC
+TOOL=fastqc
 DIRECTORY=/opt/packages/$PACKAGE/$VERSION
 
 PERSISTENT_FILE_STORAGE=/ocean

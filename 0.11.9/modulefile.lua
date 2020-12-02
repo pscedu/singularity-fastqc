@@ -6,7 +6,7 @@
 -- "Description: FastQC aims to provide a simple way to do some quality control checks on raw sequence data coming from high throughput sequencing pipelines."
 -- "Keywords: singularity bioinformatics"
 
-whatis("Name: fastqc")
+whatis("Name: FastQC")
 whatis("Version: 0.11.9")
 whatis("Category: Biological Sciences")
 whatis("URL: https://www.psc.edu/resources/software")
@@ -22,11 +22,11 @@ FastQC aims to provide a simple way to do some quality control checks on raw seq
 
 To load the module, type
 
-> module load fastqc/0.11.9
+> module load FastQC/0.11.9
 
 To unload the module, type
 
-> module unload fastqc/0.11.9
+> module unload FastQC/0.11.9
 
 Documentation
 -------------
