@@ -5,6 +5,7 @@
 ![License](https://img.shields.io/github/license/pscedu/singularity-fastqc)
 
 # singularity-fastqc
+![Screenshot](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.bioinformatics.babraham.ac.uk%2Fprojects%2Ffastqc%2Ffastqc.png&f=1&nofb=1)
 Singularity recipe for [FastQC](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/).
 
 ## Installing the container on Bridges 2
