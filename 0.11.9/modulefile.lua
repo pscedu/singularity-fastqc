@@ -13,11 +13,6 @@ whatis("URL: https://www.psc.edu/resources/software")
 whatis("Description: FastQC aims to provide a simple way to do some quality control checks on raw sequence data coming from high throughput sequencing pipelines.")
 
 help([[
-fastqc 0.11.9
---------------
-
-Description
------------
 FastQC aims to provide a simple way to do some quality control checks on raw sequence data coming from high throughput sequencing pipelines.
 
 To load the module, type
