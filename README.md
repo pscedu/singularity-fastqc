@@ -1,4 +1,5 @@
 ![Status](https://github.com/pscedu/singularity-FastQC/actions/workflows/main.yml/badge.svg)
+![Status](https://github.com/pscedu/singularity-FastQC/actions/workflows/pretty.yml/badge.svg)
 ![Issue](https://img.shields.io/github/issues/pscedu/singularity-fastqc)
 ![forks](https://img.shields.io/github/forks/pscedu/singularity-fastqc)
 ![Stars](https://img.shields.io/github/stars/pscedu/singularity-fastqc)
