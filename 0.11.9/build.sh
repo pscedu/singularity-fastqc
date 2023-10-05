@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Copyright © 2021 Pittsburgh Supercomputing Center.
+# Copyright © 2023 Pittsburgh Supercomputing Center.
 # All Rights Reserved.
 
 IMAGE=singularity-FastQC-0.11.9.sif
